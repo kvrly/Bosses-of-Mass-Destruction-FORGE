@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai;
+package com.kvrly.bosses_of_mass_destruction.entity.ai;
 
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntity;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntity;
 import net.minecraft.world.phys.Vec3;
 
 // https://gamedevelopment.tutsplus.com/tutorials/understanding-steering-behaviors-seek--gamedev-849

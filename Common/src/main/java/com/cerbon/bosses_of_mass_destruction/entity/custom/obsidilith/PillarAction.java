@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.bosses_of_mass_destruction.util.BMDUtils;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.static_utilities.*;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.bosses_of_mass_destruction.util.BMDUtils;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.static_utilities.*;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundEvents;

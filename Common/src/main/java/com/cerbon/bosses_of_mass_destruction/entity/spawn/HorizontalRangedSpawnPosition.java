@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.spawn;
+package com.kvrly.bosses_of_mass_destruction.entity.spawn;
 
-import com.cerbon.cerbons_api.api.static_utilities.RandomUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.RandomUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.world.phys.Vec3;
 
 public class HorizontalRangedSpawnPosition implements ISpawnPosition {

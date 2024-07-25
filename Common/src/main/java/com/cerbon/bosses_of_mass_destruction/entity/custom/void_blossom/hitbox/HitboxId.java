@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom.hitbox;
 
 public enum HitboxId {
     Idle((byte) 0),

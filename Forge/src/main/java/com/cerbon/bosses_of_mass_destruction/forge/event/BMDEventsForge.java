@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.forge.event;
+package com.kvrly.bosses_of_mass_destruction.forge.event;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.item.BMDCreativeModeTabs;
-import com.cerbon.bosses_of_mass_destruction.item.BMDItems;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.item.BMDCreativeModeTabs;
+import com.kvrly.bosses_of_mass_destruction.item.BMDItems;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.world.entity.Mob;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;

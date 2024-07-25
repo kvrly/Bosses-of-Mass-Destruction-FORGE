@@ -1,8 +1,8 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IBoneLight;
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
-import com.cerbon.cerbons_api.api.static_utilities.MathUtils;
+import com.kvrly.bosses_of_mass_destruction.client.render.IBoneLight;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.kvrlys_api.api.static_utilities.MathUtils;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.renderer.MultiBufferSource;
 import org.joml.Vector4f;

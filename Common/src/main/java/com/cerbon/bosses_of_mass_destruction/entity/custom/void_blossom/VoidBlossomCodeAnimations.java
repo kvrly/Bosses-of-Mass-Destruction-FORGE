@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.GeoModel;
-import com.cerbon.bosses_of_mass_destruction.entity.util.animation.ICodeAnimations;
+import com.kvrly.bosses_of_mass_destruction.entity.GeoModel;
+import com.kvrly.bosses_of_mass_destruction.entity.util.animation.ICodeAnimations;
 import net.minecraft.util.Mth;
 import software.bernie.geckolib.cache.object.BakedGeoModel;
 import software.bernie.geckolib.core.animation.AnimationState;

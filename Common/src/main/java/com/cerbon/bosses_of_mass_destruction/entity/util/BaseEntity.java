@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.util;
+package com.kvrly.bosses_of_mass_destruction.entity.util;
 
-import com.cerbon.bosses_of_mass_destruction.entity.damage.IDamageHandler;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.IDamageHandler;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.syncher.EntityDataAccessor;

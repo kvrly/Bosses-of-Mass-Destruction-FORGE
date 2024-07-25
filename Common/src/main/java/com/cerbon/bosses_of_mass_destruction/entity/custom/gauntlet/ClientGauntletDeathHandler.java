@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet;
 
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityTick;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityTick;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.Level;
 

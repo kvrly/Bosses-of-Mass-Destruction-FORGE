@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.bosses_of_mass_destruction.util.VanillaCopies;
-import com.cerbon.cerbons_api.api.static_utilities.Vec3Colors;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.util.VanillaCopies;
+import com.kvrly.kvrlys_api.api.static_utilities.Vec3Colors;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import com.mojang.math.Axis;

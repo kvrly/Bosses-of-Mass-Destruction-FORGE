@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.action;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.action;
 
-import com.cerbon.bosses_of_mass_destruction.entity.util.ProjectileThrower;
+import com.kvrly.bosses_of_mass_destruction.entity.util.ProjectileThrower;
 import net.minecraft.world.entity.PathfinderMob;
 
 public class ThrowProjectileAction implements IAction {

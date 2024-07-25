@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.config.mob;
+package com.kvrly.bosses_of_mass_destruction.config.mob;
 
 import me.shedaniel.autoconfig.annotation.ConfigEntry;
 
 public class GauntletConfig {
-    public double health = 250.0;
-    public double armor = 8.0;
+    public double health = 500.0;
+    public double armor = 16.0;
     public double attack = 16.0;
     public float idleHealingPerTick = 0.5f;
 

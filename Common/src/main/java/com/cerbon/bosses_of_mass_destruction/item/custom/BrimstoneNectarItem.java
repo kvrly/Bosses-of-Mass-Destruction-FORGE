@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.item.custom;
+package com.kvrly.bosses_of_mass_destruction.item.custom;
 
-import com.cerbon.bosses_of_mass_destruction.packet.custom.SendVec3S2CPacket;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.bosses_of_mass_destruction.structure.structure_repair.StructureRepair;
-import com.cerbon.bosses_of_mass_destruction.util.VecId;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.network.Dispatcher;
-import com.cerbon.cerbons_api.api.static_utilities.CapabilityUtils;
-import com.cerbon.cerbons_api.api.static_utilities.SoundUtils;
+import com.kvrly.bosses_of_mass_destruction.packet.custom.SendVec3S2CPacket;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.bosses_of_mass_destruction.structure.structure_repair.StructureRepair;
+import com.kvrly.bosses_of_mass_destruction.util.VecId;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.network.Dispatcher;
+import com.kvrly.kvrlys_api.api.static_utilities.CapabilityUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.SoundUtils;
 import net.minecraft.ChatFormatting;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.Registries;

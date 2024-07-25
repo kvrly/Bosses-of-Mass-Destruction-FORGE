@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.mixin;
+package com.kvrly.bosses_of_mass_destruction.mixin;
 
-import com.cerbon.bosses_of_mass_destruction.block.custom.ObsidilithSummonBlock;
+import com.kvrly.bosses_of_mass_destruction.block.custom.ObsidilithSummonBlock;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.item.EnderEyeItem;
 import net.minecraft.world.item.context.UseOnContext;

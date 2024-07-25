@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.spawn;
+package com.kvrly.bosses_of_mass_destruction.entity.spawn;
 
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.EntityType;

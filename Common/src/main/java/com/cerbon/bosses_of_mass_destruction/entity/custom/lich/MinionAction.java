@@ -1,14 +1,14 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.entity.spawn.*;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.static_utilities.ParticleUtils;
-import com.cerbon.cerbons_api.api.static_utilities.RegistryUtils;
-import com.cerbon.cerbons_api.api.static_utilities.SoundUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.entity.spawn.*;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.static_utilities.ParticleUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.RegistryUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.SoundUtils;
 import com.mojang.brigadier.exceptions.CommandSyntaxException;
 import net.minecraft.nbt.CompoundTag;
 import net.minecraft.nbt.TagParser;

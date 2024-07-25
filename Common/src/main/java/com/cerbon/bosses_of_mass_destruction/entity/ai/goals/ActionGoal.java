@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.goals;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.goals;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IAction;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionStop;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IAction;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionStop;
 import net.minecraft.world.entity.ai.goal.Goal;
 
 import java.util.function.Supplier;

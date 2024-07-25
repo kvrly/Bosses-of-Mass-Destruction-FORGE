@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.item.custom;
+package com.kvrly.bosses_of_mass_destruction.item.custom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.item.BMDItems;
-import com.cerbon.bosses_of_mass_destruction.packet.custom.ChargedEnderPearlS2CPacket;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.cerbons_api.api.general.particle.ClientParticleBuilder;
-import com.cerbon.cerbons_api.api.network.Dispatcher;
-import com.cerbon.cerbons_api.api.static_utilities.*;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.item.BMDItems;
+import com.kvrly.bosses_of_mass_destruction.packet.custom.ChargedEnderPearlS2CPacket;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.kvrlys_api.api.general.particle.ClientParticleBuilder;
+import com.kvrly.kvrlys_api.api.network.Dispatcher;
+import com.kvrly.kvrlys_api.api.static_utilities.*;
 import net.minecraft.network.protocol.Packet;
 import net.minecraft.network.protocol.game.ClientGamePacketListener;
 import net.minecraft.server.level.ServerLevel;

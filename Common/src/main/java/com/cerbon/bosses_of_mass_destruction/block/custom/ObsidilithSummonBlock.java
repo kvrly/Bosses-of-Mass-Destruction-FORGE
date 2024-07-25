@@ -1,15 +1,15 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.general.particle.ClientParticleBuilder;
-import com.cerbon.cerbons_api.api.static_utilities.CapabilityUtils;
-import com.cerbon.cerbons_api.api.static_utilities.RandomUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.general.particle.ClientParticleBuilder;
+import com.kvrly.kvrlys_api.api.static_utilities.CapabilityUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.RandomUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.core.BlockPos;

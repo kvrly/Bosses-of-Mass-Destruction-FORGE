@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.block;
+package com.kvrly.bosses_of_mass_destruction.block;
 
-import com.cerbon.bosses_of_mass_destruction.block.custom.*;
-import com.cerbon.bosses_of_mass_destruction.client.render.BMDBlockEntityRenderer;
-import com.cerbon.bosses_of_mass_destruction.client.render.IBoneLight;
-import com.cerbon.bosses_of_mass_destruction.entity.GeoModel;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.cerbons_api.api.registry.RegistryEntry;
-import com.cerbon.cerbons_api.api.registry.ResourcefulRegistries;
-import com.cerbon.cerbons_api.api.registry.ResourcefulRegistry;
+import com.kvrly.bosses_of_mass_destruction.block.custom.*;
+import com.kvrly.bosses_of_mass_destruction.client.render.BMDBlockEntityRenderer;
+import com.kvrly.bosses_of_mass_destruction.client.render.IBoneLight;
+import com.kvrly.bosses_of_mass_destruction.entity.GeoModel;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.kvrlys_api.api.registry.RegistryEntry;
+import com.kvrly.kvrlys_api.api.registry.ResourcefulRegistries;
+import com.kvrly.kvrlys_api.api.registry.ResourcefulRegistry;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.renderer.RenderType;

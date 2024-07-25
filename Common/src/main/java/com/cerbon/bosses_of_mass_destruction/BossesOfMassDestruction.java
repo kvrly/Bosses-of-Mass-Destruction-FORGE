@@ -1,15 +1,15 @@
-package com.cerbon.bosses_of_mass_destruction;
+package com.kvrly.bosses_of_mass_destruction;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlockEntities;
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.config.BMDConfig;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.item.BMDCreativeModeTabs;
-import com.cerbon.bosses_of_mass_destruction.item.BMDItems;
-import com.cerbon.bosses_of_mass_destruction.packet.BMDPackets;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.bosses_of_mass_destruction.structure.BMDStructures;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlockEntities;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.config.BMDConfig;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.item.BMDCreativeModeTabs;
+import com.kvrly.bosses_of_mass_destruction.item.BMDItems;
+import com.kvrly.bosses_of_mass_destruction.packet.BMDPackets;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.bosses_of_mass_destruction.structure.BMDStructures;
 import me.shedaniel.autoconfig.AutoConfig;
 import me.shedaniel.autoconfig.serializer.JanksonConfigSerializer;
 

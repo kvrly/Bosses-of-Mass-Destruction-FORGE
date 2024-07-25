@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.action;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.action;
 
 public class CooldownAction implements IAction, IActionStop {
     private final IActionWithCooldown action;

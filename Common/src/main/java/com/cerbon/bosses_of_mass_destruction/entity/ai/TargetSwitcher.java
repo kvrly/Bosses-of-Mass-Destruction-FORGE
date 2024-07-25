@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai;
+package com.kvrly.bosses_of_mass_destruction.entity.ai;
 
-import com.cerbon.bosses_of_mass_destruction.entity.damage.DamageMemory;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.DamageMemory;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Mob;

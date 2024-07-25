@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.forge.capability;
+package com.kvrly.bosses_of_mass_destruction.forge.capability;
 
-import com.cerbon.bosses_of_mass_destruction.capability.ChunkBlockCache;
+import com.kvrly.bosses_of_mass_destruction.capability.ChunkBlockCache;
 import net.minecraft.core.Direction;
 import net.minecraftforge.common.capabilities.*;
 import net.minecraftforge.common.util.LazyOptional;

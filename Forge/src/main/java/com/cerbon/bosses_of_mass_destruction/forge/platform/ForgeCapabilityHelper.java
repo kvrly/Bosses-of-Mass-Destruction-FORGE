@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.forge.platform;
+package com.kvrly.bosses_of_mass_destruction.forge.platform;
 
-import com.cerbon.bosses_of_mass_destruction.capability.ChunkBlockCache;
-import com.cerbon.bosses_of_mass_destruction.forge.capability.ChunkBlockCacheProvider;
-import com.cerbon.bosses_of_mass_destruction.forge.capability.PlayerMoveHistoryProvider;
-import com.cerbon.bosses_of_mass_destruction.platform.services.ICapabilityHelper;
-import com.cerbon.cerbons_api.api.general.data.HistoricalData;
+import com.kvrly.bosses_of_mass_destruction.capability.ChunkBlockCache;
+import com.kvrly.bosses_of_mass_destruction.forge.capability.ChunkBlockCacheProvider;
+import com.kvrly.bosses_of_mass_destruction.forge.capability.PlayerMoveHistoryProvider;
+import com.kvrly.bosses_of_mass_destruction.platform.services.ICapabilityHelper;
+import com.kvrly.kvrlys_api.api.general.data.HistoricalData;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;

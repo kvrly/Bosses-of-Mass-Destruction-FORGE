@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.goals;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.goals;
 
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Mob;

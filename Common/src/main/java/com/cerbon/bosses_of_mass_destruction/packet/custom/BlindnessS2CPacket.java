@@ -1,8 +1,8 @@
-package com.cerbon.bosses_of_mass_destruction.packet.custom;
+package com.kvrly.bosses_of_mass_destruction.packet.custom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity;
-import com.cerbon.cerbons_api.api.network.data.PacketContext;
-import com.cerbon.cerbons_api.api.network.data.Side;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletEntity;
+import com.kvrly.kvrlys_api.api.network.data.PacketContext;
+import com.kvrly.kvrlys_api.api.network.data.Side;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.network.FriendlyByteBuf;

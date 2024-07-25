@@ -1,11 +1,11 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityTick;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.cerbons_api.api.general.particle.ClientParticleBuilder;
-import com.cerbon.cerbons_api.api.static_utilities.RandomUtils;
-import com.cerbon.cerbons_api.api.static_utilities.Vec3Colors;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityTick;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.kvrlys_api.api.general.particle.ClientParticleBuilder;
+import com.kvrly.kvrlys_api.api.static_utilities.RandomUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.Vec3Colors;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;

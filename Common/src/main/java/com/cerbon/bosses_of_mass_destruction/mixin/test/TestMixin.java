@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.mixin.test;
+package com.kvrly.bosses_of_mass_destruction.mixin.test;
 
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.cerbons_api.api.static_utilities.MiscUtils;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.kvrlys_api.api.static_utilities.MiscUtils;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.main.GameConfig;
 import org.spongepowered.asm.mixin.Mixin;

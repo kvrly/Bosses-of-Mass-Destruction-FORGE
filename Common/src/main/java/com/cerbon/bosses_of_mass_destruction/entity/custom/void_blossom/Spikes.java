@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.util.BMDUtils;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.static_utilities.ParticleUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.util.BMDUtils;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.static_utilities.ParticleUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
 import net.minecraft.core.particles.ParticleOptions;

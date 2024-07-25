@@ -1,11 +1,11 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IBoneLight;
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
-import com.cerbon.bosses_of_mass_destruction.client.render.IRendererWithModel;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.cerbons_api.api.static_utilities.Vec3Colors;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.client.render.IBoneLight;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRendererWithModel;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.kvrlys_api.api.static_utilities.Vec3Colors;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import net.minecraft.client.renderer.MultiBufferSource;

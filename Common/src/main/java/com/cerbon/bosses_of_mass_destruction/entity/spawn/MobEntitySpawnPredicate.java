@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.spawn;
+package com.kvrly.bosses_of_mass_destruction.entity.spawn;
 
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.entity.Entity;

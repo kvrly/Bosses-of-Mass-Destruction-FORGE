@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.forge.event;
+package com.kvrly.bosses_of_mass_destruction.forge.event;
 
-import com.cerbon.bosses_of_mass_destruction.block.custom.LevitationBlockEntity;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.forge.capability.ChunkBlockCacheProvider;
-import com.cerbon.bosses_of_mass_destruction.forge.capability.PlayerMoveHistoryProvider;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.block.custom.LevitationBlockEntity;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.forge.capability.ChunkBlockCacheProvider;
+import com.kvrly.bosses_of_mass_destruction.forge.capability.PlayerMoveHistoryProvider;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.entity.Entity;

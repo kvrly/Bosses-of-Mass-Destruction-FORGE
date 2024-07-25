@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlockEntities;
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.capability.ChunkBlockCache;
-import com.cerbon.bosses_of_mass_destruction.capability.util.BMDCapabilities;
-import com.cerbon.bosses_of_mass_destruction.util.VanillaCopiesServer;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlockEntities;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.capability.ChunkBlockCache;
+import com.kvrly.bosses_of_mass_destruction.capability.util.BMDCapabilities;
+import com.kvrly.bosses_of_mass_destruction.util.VanillaCopiesServer;
 import com.mojang.serialization.MapCodec;
 import net.minecraft.ChatFormatting;
 import net.minecraft.core.BlockPos;

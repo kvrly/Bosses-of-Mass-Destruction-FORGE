@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IBoneLight;
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
-import com.cerbon.bosses_of_mass_destruction.client.render.IRendererWithModel;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.client.render.IBoneLight;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRendererWithModel;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import net.minecraft.client.renderer.MultiBufferSource;

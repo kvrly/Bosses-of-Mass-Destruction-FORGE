@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.TargetSwitcher;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.entity.damage.DamageMemory;
-import com.cerbon.bosses_of_mass_destruction.entity.damage.IDamageHandler;
-import com.cerbon.bosses_of_mass_destruction.entity.damage.StagedDamageHandler;
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityStats;
-import com.cerbon.cerbons_api.api.general.data.HistoricalData;
-import com.cerbon.cerbons_api.api.general.random.WeightedRandom;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.TargetSwitcher;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.DamageMemory;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.IDamageHandler;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.StagedDamageHandler;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityStats;
+import com.kvrly.kvrlys_api.api.general.data.HistoricalData;
+import com.kvrly.kvrlys_api.api.general.random.WeightedRandom;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.LivingEntity;
 

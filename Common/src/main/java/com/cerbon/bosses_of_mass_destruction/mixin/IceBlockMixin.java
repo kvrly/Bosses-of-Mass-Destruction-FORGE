@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.mixin;
+package com.kvrly.bosses_of_mass_destruction.mixin;
 
-import com.cerbon.bosses_of_mass_destruction.structure.BMDStructures;
+import com.kvrly.bosses_of_mass_destruction.structure.BMDStructures;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.server.level.ServerLevel;

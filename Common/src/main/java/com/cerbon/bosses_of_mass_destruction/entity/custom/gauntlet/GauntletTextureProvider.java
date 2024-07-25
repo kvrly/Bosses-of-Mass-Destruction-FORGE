@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.ITextureProvider;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.client.render.ITextureProvider;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.resources.ResourceLocation;
 
 public class GauntletTextureProvider implements ITextureProvider<GauntletEntity> {

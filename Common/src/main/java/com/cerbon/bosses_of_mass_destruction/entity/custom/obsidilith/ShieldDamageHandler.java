@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith;
 
-import com.cerbon.bosses_of_mass_destruction.entity.damage.IDamageHandler;
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityStats;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.cerbons_api.api.static_utilities.SoundUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.damage.IDamageHandler;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityStats;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.kvrlys_api.api.static_utilities.SoundUtils;
 import net.minecraft.tags.DamageTypeTags;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.Entity;

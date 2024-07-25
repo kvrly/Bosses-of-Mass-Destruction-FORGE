@@ -1,12 +1,12 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.NodeBossBarRenderer;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.bosses_of_mass_destruction.util.VanillaCopiesServer;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.static_utilities.*;
+import com.kvrly.bosses_of_mass_destruction.client.render.NodeBossBarRenderer;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.util.VanillaCopiesServer;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.static_utilities.*;
 import net.minecraft.core.BlockPos;
 import net.minecraft.network.syncher.EntityDataAccessor;
 import net.minecraft.network.syncher.EntityDataSerializers;

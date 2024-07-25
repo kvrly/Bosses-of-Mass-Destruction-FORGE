@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.client.renderer.MultiBufferSource;

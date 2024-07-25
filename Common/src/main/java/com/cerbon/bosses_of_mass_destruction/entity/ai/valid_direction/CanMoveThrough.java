@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction;
 
-import com.cerbon.cerbons_api.api.static_utilities.MathUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.MathUtils;
 import net.minecraft.world.entity.Entity;
 import net.minecraft.world.level.ClipContext;
 import net.minecraft.world.phys.HitResult;

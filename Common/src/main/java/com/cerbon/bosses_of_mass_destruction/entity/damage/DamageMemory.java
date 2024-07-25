@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.damage;
+package com.kvrly.bosses_of_mass_destruction.entity.damage;
 
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityStats;
-import com.cerbon.cerbons_api.api.general.data.HistoricalData;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityStats;
+import com.kvrly.kvrlys_api.api.general.data.HistoricalData;
 import net.minecraft.world.damagesource.DamageSource;
 import net.minecraft.world.entity.LivingEntity;
 

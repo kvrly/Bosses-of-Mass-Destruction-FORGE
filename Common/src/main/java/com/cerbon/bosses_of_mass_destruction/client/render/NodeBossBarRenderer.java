@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.client.render;
+package com.kvrly.bosses_of_mass_destruction.client.render;
 
-import com.cerbon.cerbons_api.api.static_utilities.MathUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.MathUtils;
 import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.network.chat.Component;
 import net.minecraft.network.chat.ComponentContents;

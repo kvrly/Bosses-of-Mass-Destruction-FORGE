@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.config.mob;
+package com.kvrly.bosses_of_mass_destruction.config.mob;
 
 import me.shedaniel.autoconfig.annotation.ConfigEntry;
 
@@ -8,9 +8,9 @@ public class LichConfig {
     public boolean eternalNighttime = true;
 
     @ConfigEntry.BoundedDiscrete(min = 0, max = 10000)
-    public int experienceDrop = 1500;
+    public int experienceDrop = 3000;
     public float idleHealingPerTick = 0.2f;
-    public double health = 300.0;
+    public double health = 600.0;
 
     @ConfigEntry.Gui.CollapsibleObject
     public Missile missile = new Missile();

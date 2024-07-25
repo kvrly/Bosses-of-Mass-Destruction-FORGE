@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.config.mob.LichConfig;
-import com.cerbon.bosses_of_mass_destruction.item.BMDItems;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.cerbons_api.api.static_utilities.ParticleUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.config.mob.LichConfig;
+import com.kvrly.bosses_of_mass_destruction.item.BMDItems;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.kvrlys_api.api.static_utilities.ParticleUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.core.registries.BuiltInRegistries;
 import net.minecraft.resources.ResourceLocation;
 import net.minecraft.server.level.ServerPlayer;

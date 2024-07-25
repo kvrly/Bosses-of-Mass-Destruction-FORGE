@@ -1,15 +1,15 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.ValidatedTargetSelector;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.VelocitySteering;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.goals.VelocityGoal;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction.CanMoveThrough;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction.InDesiredRange;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction.ValidDirectionAnd;
-import com.cerbon.bosses_of_mass_destruction.entity.util.EntityAdapter;
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntity;
-import com.cerbon.bosses_of_mass_destruction.util.VanillaCopiesServer;
-import com.cerbon.cerbons_api.api.static_utilities.MathUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.ValidatedTargetSelector;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.VelocitySteering;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.goals.VelocityGoal;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction.CanMoveThrough;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction.InDesiredRange;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction.ValidDirectionAnd;
+import com.kvrly.bosses_of_mass_destruction.entity.util.EntityAdapter;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntity;
+import com.kvrly.bosses_of_mass_destruction.util.VanillaCopiesServer;
+import com.kvrly.kvrlys_api.api.static_utilities.MathUtils;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.ai.attributes.Attributes;
 import net.minecraft.world.phys.Vec3;

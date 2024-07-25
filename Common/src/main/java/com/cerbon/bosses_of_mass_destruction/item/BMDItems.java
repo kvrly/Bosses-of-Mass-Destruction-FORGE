@@ -1,15 +1,15 @@
-package com.cerbon.bosses_of_mass_destruction.item;
+package com.kvrly.bosses_of_mass_destruction.item;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
-import com.cerbon.bosses_of_mass_destruction.item.custom.*;
-import com.cerbon.bosses_of_mass_destruction.structure.structure_repair.GauntletStructureRepair;
-import com.cerbon.bosses_of_mass_destruction.structure.structure_repair.LichStructureRepair;
-import com.cerbon.bosses_of_mass_destruction.structure.structure_repair.ObsidilithStructureRepair;
-import com.cerbon.bosses_of_mass_destruction.structure.structure_repair.VoidBlossomStructureRepair;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
-import com.cerbon.cerbons_api.api.registry.RegistryEntry;
-import com.cerbon.cerbons_api.api.registry.ResourcefulRegistries;
-import com.cerbon.cerbons_api.api.registry.ResourcefulRegistry;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.item.custom.*;
+import com.kvrly.bosses_of_mass_destruction.structure.structure_repair.GauntletStructureRepair;
+import com.kvrly.bosses_of_mass_destruction.structure.structure_repair.LichStructureRepair;
+import com.kvrly.bosses_of_mass_destruction.structure.structure_repair.ObsidilithStructureRepair;
+import com.kvrly.bosses_of_mass_destruction.structure.structure_repair.VoidBlossomStructureRepair;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.kvrlys_api.api.registry.RegistryEntry;
+import com.kvrly.kvrlys_api.api.registry.ResourcefulRegistries;
+import com.kvrly.kvrlys_api.api.registry.ResourcefulRegistry;
 import net.fabricmc.api.EnvType;
 import net.fabricmc.api.Environment;
 import net.minecraft.client.renderer.item.ItemProperties;

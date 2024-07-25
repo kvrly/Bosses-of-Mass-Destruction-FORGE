@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithEntity;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.util.RandomSource;

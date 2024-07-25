@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
-import com.cerbon.bosses_of_mass_destruction.entity.util.EntityAdapter;
-import com.cerbon.bosses_of_mass_destruction.entity.util.EntityStats;
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntityTick;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.util.EntityAdapter;
+import com.kvrly.bosses_of_mass_destruction.entity.util.EntityStats;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntityTick;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.world.entity.Mob;
 

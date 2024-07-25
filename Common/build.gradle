@@ -3,7 +3,7 @@ dependencies {
     // Do NOT use other classes from fabric loader
     modImplementation "net.fabricmc:fabric-loader:${fabric_loader_version}"
 
-    modImplementation "com.cerbon:cerbons_api-common-${minecraft_version}:${cerbons_api_version}"
+    modImplementation "com.kvrly:kvrlys_api-common-${minecraft_version}:${kvrlys_api_version}"
 
     modImplementation "software.bernie.geckolib:geckolib-fabric-${minecraft_version}:${geckolib_version}"
 

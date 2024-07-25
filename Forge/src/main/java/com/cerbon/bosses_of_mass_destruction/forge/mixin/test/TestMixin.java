@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.forge.mixin.test;
+package com.kvrly.bosses_of_mass_destruction.forge.mixin.test;
 
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.main.GameConfig;
 import org.spongepowered.asm.mixin.Mixin;

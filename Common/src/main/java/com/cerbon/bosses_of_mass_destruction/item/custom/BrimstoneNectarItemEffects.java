@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.item.custom;
+package com.kvrly.bosses_of_mass_destruction.item.custom;
 
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.util.Vec3Receiver;
-import com.cerbon.cerbons_api.api.general.particle.ClientParticleBuilder;
-import com.cerbon.cerbons_api.api.static_utilities.*;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.util.Vec3Receiver;
+import com.kvrly.kvrlys_api.api.general.particle.ClientParticleBuilder;
+import com.kvrly.kvrlys_api.api.static_utilities.*;
 import net.minecraft.client.multiplayer.ClientLevel;
 import net.minecraft.world.phys.Vec3;
 

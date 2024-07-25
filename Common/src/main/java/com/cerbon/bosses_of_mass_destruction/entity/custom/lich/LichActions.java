@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.CooldownAction;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionStop;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.goals.ActionGoal;
-import com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletAttacks;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.CooldownAction;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionStop;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.goals.ActionGoal;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet.GauntletAttacks;
 
 import java.util.function.Supplier;
 

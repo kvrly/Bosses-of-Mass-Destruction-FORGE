@@ -1,10 +1,10 @@
-package com.cerbon.bosses_of_mass_destruction.config;
+package com.kvrly.bosses_of_mass_destruction.config;
 
-import com.cerbon.bosses_of_mass_destruction.config.mob.GauntletConfig;
-import com.cerbon.bosses_of_mass_destruction.config.mob.LichConfig;
-import com.cerbon.bosses_of_mass_destruction.config.mob.ObsidilithConfig;
-import com.cerbon.bosses_of_mass_destruction.config.mob.VoidBlossomConfig;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.config.mob.GauntletConfig;
+import com.kvrly.bosses_of_mass_destruction.config.mob.LichConfig;
+import com.kvrly.bosses_of_mass_destruction.config.mob.ObsidilithConfig;
+import com.kvrly.bosses_of_mass_destruction.config.mob.VoidBlossomConfig;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import me.shedaniel.autoconfig.ConfigData;
 import me.shedaniel.autoconfig.annotation.Config;
 import me.shedaniel.autoconfig.annotation.ConfigEntry;

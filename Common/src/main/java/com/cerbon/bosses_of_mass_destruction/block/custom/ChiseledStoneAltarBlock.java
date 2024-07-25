@@ -1,13 +1,13 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
-import com.cerbon.bosses_of_mass_destruction.particle.BMDParticles;
-import com.cerbon.bosses_of_mass_destruction.particle.ParticleFactories;
-import com.cerbon.cerbons_api.api.general.particle.ClientParticleBuilder;
-import com.cerbon.cerbons_api.api.static_utilities.MathUtils;
-import com.cerbon.cerbons_api.api.static_utilities.RandomUtils;
-import com.cerbon.cerbons_api.api.static_utilities.Vec3Colors;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
+import com.kvrly.bosses_of_mass_destruction.particle.BMDParticles;
+import com.kvrly.bosses_of_mass_destruction.particle.ParticleFactories;
+import com.kvrly.kvrlys_api.api.general.particle.ClientParticleBuilder;
+import com.kvrly.kvrlys_api.api.static_utilities.MathUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.RandomUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.Vec3Colors;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.util.RandomSource;
 import net.minecraft.world.item.context.BlockPlaceContext;

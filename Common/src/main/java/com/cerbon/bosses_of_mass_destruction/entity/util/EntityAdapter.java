@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.util;
+package com.kvrly.bosses_of_mass_destruction.entity.util;
 
-import com.cerbon.cerbons_api.api.static_utilities.MobUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.MobUtils;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.entity.Mob;
 import net.minecraft.world.phys.Vec3;

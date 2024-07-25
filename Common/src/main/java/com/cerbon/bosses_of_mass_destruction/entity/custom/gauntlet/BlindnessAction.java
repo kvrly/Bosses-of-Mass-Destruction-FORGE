@@ -1,12 +1,12 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.gauntlet;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.gauntlet;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.packet.custom.BlindnessS2CPacket;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.network.Dispatcher;
-import com.cerbon.cerbons_api.api.static_utilities.SoundUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.packet.custom.BlindnessS2CPacket;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.network.Dispatcher;
+import com.kvrly.kvrlys_api.api.static_utilities.SoundUtils;
 import net.minecraft.server.level.ServerLevel;
 import net.minecraft.sounds.SoundSource;
 import net.minecraft.world.effect.MobEffectInstance;

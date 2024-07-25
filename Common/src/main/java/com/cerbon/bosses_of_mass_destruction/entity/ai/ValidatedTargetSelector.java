@@ -1,9 +1,9 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai;
+package com.kvrly.bosses_of_mass_destruction.entity.ai;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction.IValidDirection;
-import com.cerbon.bosses_of_mass_destruction.entity.util.IEntity;
-import com.cerbon.cerbons_api.api.static_utilities.RandomUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction.IValidDirection;
+import com.kvrly.bosses_of_mass_destruction.entity.util.IEntity;
+import com.kvrly.kvrlys_api.api.static_utilities.RandomUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.world.phys.Vec3;
 
 public class ValidatedTargetSelector implements ITargetSelector {

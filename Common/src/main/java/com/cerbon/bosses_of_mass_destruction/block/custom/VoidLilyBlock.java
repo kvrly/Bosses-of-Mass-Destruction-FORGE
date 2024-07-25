@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
 import net.minecraft.ChatFormatting;
 import net.minecraft.core.BlockPos;

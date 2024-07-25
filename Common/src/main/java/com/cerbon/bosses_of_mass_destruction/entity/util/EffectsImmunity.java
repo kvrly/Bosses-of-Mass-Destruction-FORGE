@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.util;
+package com.kvrly.bosses_of_mass_destruction.entity.util;
 
 import net.minecraft.world.effect.MobEffect;
 import net.minecraft.world.effect.MobEffectInstance;

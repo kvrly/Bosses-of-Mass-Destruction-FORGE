@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.client.render;
+package com.kvrly.bosses_of_mass_destruction.client.render;
 
-import com.cerbon.bosses_of_mass_destruction.projectile.PetalBladeProjectile;
-import com.cerbon.bosses_of_mass_destruction.util.VanillaCopies;
+import com.kvrly.bosses_of_mass_destruction.projectile.PetalBladeProjectile;
+import com.kvrly.bosses_of_mass_destruction.util.VanillaCopies;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.math.Axis;
 import net.minecraft.client.renderer.MultiBufferSource;

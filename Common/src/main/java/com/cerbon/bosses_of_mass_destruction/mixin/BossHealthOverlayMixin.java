@@ -1,11 +1,11 @@
-package com.cerbon.bosses_of_mass_destruction.mixin;
+package com.kvrly.bosses_of_mass_destruction.mixin;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.NodeBossBarRenderer;
-import com.cerbon.bosses_of_mass_destruction.entity.BMDEntities;
-import com.cerbon.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
-import com.cerbon.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils;
-import com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom.VoidBlossomEntity;
-import com.cerbon.bosses_of_mass_destruction.util.BMDConstants;
+import com.kvrly.bosses_of_mass_destruction.client.render.NodeBossBarRenderer;
+import com.kvrly.bosses_of_mass_destruction.entity.BMDEntities;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.lich.LichUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.obsidilith.ObsidilithUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom.VoidBlossomEntity;
+import com.kvrly.bosses_of_mass_destruction.util.BMDConstants;
 import net.minecraft.client.gui.GuiGraphics;
 import net.minecraft.client.gui.components.BossHealthOverlay;
 import net.minecraft.resources.ResourceLocation;

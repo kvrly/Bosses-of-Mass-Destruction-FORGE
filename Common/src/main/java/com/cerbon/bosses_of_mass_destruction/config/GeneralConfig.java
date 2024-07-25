@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.config;
+package com.kvrly.bosses_of_mass_destruction.config;
 
 import me.shedaniel.autoconfig.annotation.ConfigEntry;
 

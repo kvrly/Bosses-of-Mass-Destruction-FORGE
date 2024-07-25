@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.util;
+package com.kvrly.bosses_of_mass_destruction.entity.util;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.*;
+import com.kvrly.bosses_of_mass_destruction.client.render.*;
 import com.mojang.blaze3d.vertex.PoseStack;
 import com.mojang.blaze3d.vertex.VertexConsumer;
 import net.minecraft.client.renderer.MultiBufferSource;

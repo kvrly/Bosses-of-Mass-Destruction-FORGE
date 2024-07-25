@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.goals;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.goals;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.ISteering;
-import com.cerbon.bosses_of_mass_destruction.entity.ai.ITargetSelector;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.ISteering;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.ITargetSelector;
 import net.minecraft.world.entity.ai.goal.Goal;
 import net.minecraft.world.phys.Vec3;
 

@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.entity.ai.valid_direction;
+package com.kvrly.bosses_of_mass_destruction.entity.ai.valid_direction;
 
 import net.minecraft.world.phys.Vec3;
 

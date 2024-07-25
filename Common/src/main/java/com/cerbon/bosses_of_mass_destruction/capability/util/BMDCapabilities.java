@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.capability.util;
+package com.kvrly.bosses_of_mass_destruction.capability.util;
 
-import com.cerbon.bosses_of_mass_destruction.capability.ChunkBlockCache;
-import com.cerbon.bosses_of_mass_destruction.platform.BMDServices;
+import com.kvrly.bosses_of_mass_destruction.capability.ChunkBlockCache;
+import com.kvrly.bosses_of_mass_destruction.platform.BMDServices;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.level.Level;
 import net.minecraft.world.phys.Vec3;

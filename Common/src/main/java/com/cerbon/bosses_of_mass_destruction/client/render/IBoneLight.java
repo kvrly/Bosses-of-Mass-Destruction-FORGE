@@ -1,4 +1,4 @@
-package com.cerbon.bosses_of_mass_destruction.client.render;
+package com.kvrly.bosses_of_mass_destruction.client.render;
 
 import org.joml.Vector4f;
 import software.bernie.geckolib.cache.object.GeoBone;

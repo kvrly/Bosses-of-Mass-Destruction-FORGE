@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlockEntities;
-import com.cerbon.bosses_of_mass_destruction.block.BMDBlocks;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlockEntities;
+import com.kvrly.bosses_of_mass_destruction.block.BMDBlocks;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.block.state.BlockState;
 

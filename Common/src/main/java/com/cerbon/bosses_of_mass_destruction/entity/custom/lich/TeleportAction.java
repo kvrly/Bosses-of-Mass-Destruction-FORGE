@@ -1,15 +1,15 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.lich;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.lich;
 
-import com.cerbon.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
-import com.cerbon.bosses_of_mass_destruction.entity.spawn.ISpawnPredicate;
-import com.cerbon.bosses_of_mass_destruction.entity.spawn.MobEntitySpawnPredicate;
-import com.cerbon.bosses_of_mass_destruction.entity.spawn.MobPlacementLogic;
-import com.cerbon.bosses_of_mass_destruction.entity.spawn.RangedSpawnPosition;
-import com.cerbon.bosses_of_mass_destruction.sound.BMDSounds;
-import com.cerbon.cerbons_api.api.general.event.EventScheduler;
-import com.cerbon.cerbons_api.api.general.event.TimedEvent;
-import com.cerbon.cerbons_api.api.static_utilities.SoundUtils;
-import com.cerbon.cerbons_api.api.static_utilities.VecUtils;
+import com.kvrly.bosses_of_mass_destruction.entity.ai.action.IActionWithCooldown;
+import com.kvrly.bosses_of_mass_destruction.entity.spawn.ISpawnPredicate;
+import com.kvrly.bosses_of_mass_destruction.entity.spawn.MobEntitySpawnPredicate;
+import com.kvrly.bosses_of_mass_destruction.entity.spawn.MobPlacementLogic;
+import com.kvrly.bosses_of_mass_destruction.entity.spawn.RangedSpawnPosition;
+import com.kvrly.bosses_of_mass_destruction.sound.BMDSounds;
+import com.kvrly.kvrlys_api.api.general.event.EventScheduler;
+import com.kvrly.kvrlys_api.api.general.event.TimedEvent;
+import com.kvrly.kvrlys_api.api.static_utilities.SoundUtils;
+import com.kvrly.kvrlys_api.api.static_utilities.VecUtils;
 import net.minecraft.core.BlockPos;
 import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.sounds.SoundSource;

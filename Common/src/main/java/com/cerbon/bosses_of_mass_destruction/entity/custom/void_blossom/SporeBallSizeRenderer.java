@@ -1,7 +1,7 @@
-package com.cerbon.bosses_of_mass_destruction.entity.custom.void_blossom;
+package com.kvrly.bosses_of_mass_destruction.entity.custom.void_blossom;
 
-import com.cerbon.bosses_of_mass_destruction.client.render.IRenderer;
-import com.cerbon.bosses_of_mass_destruction.projectile.SporeBallProjectile;
+import com.kvrly.bosses_of_mass_destruction.client.render.IRenderer;
+import com.kvrly.bosses_of_mass_destruction.projectile.SporeBallProjectile;
 import com.mojang.blaze3d.vertex.PoseStack;
 import net.minecraft.client.renderer.MultiBufferSource;
 

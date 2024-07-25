@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.block.custom;
+package com.kvrly.bosses_of_mass_destruction.block.custom;
 
-import com.cerbon.bosses_of_mass_destruction.capability.util.BMDCapabilities;
+import com.kvrly.bosses_of_mass_destruction.capability.util.BMDCapabilities;
 import net.minecraft.core.BlockPos;
 import net.minecraft.world.level.ChunkPos;
 import net.minecraft.world.level.Level;

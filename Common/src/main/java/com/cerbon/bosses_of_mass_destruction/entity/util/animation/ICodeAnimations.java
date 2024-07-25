@@ -1,6 +1,6 @@
-package com.cerbon.bosses_of_mass_destruction.entity.util.animation;
+package com.kvrly.bosses_of_mass_destruction.entity.util.animation;
 
-import com.cerbon.bosses_of_mass_destruction.entity.GeoModel;
+import com.kvrly.bosses_of_mass_destruction.entity.GeoModel;
 import software.bernie.geckolib.core.animatable.GeoAnimatable;
 import software.bernie.geckolib.core.animation.AnimationState;
 
